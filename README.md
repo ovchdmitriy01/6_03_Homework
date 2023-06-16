@@ -19,7 +19,7 @@
 Приложите скриншот.
 
 <a href="https://ibb.co/1s2pmbW"><img src="https://i.ibb.co/6vspWNC/6-3-1.png" alt="6-3-1" border="0"></a>
-<a href="https://ibb.co/kBXLgF2"><img src="https://i.ibb.co/g9J0MCZ/6-3-2.png" alt="6-3-2" border="0"></a>
+
 ---
 
 ### Задание 3
