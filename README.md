@@ -33,7 +33,8 @@
 В VB Ubuntu 18.04 ругается на сертификат. Перешел по https://code.infoplex.ru/v2/" Скачал оба сертификата и экспортировал в систему, обновил все, но ошибка та же.
 <a href="https://ibb.co/xfVVtGB"><img src="https://i.ibb.co/0FPPRZ6/6-3-3.png" alt="6-3-3" border="0"></a>
 Попробую на Яндекс.Клауде еще, с локальным проблема.
-
+Через Yandex.Cloud:
+<a href="https://ibb.co/PC3s8yd"><img src="https://i.ibb.co/DKsPnFZ/6-3-4.png" alt="6-3-4" border="0"></a>
 ---
 
 ### Задание 4 
@@ -41,4 +42,5 @@
 **Выполните действия:**
 
 1. Удалите образ hello-world.
-1. Приложите скриншот.
+Приложите скриншот.
+<a href="https://ibb.co/Qmgyqhj"><img src="https://i.ibb.co/GP6z1G3/6-3-5.png" alt="6-3-5" border="0"></a>
